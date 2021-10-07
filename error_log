@@ -1,0 +1,4 @@
+[24-Oct-2019 03:13:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/thepubp9/public_html/wp-content/themes/thepublisherpen/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/thepubp9/public_html/wp-content/themes/thepublisherpen/index.php on line 19
